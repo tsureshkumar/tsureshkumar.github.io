@@ -9,3 +9,7 @@ github_username:  tsureshkumar
 
 # Build settings
 markdown: kramdown
+
+# collections
+collections:
+    - projects
