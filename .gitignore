@@ -1,3 +1,4 @@
 *.sw?
 .jekyll-cache/
 _site/
+vendor/
